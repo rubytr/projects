@@ -39,4 +39,12 @@
     "contributors": ["mertbulan", "davidesantangelo", "enderahmetyurt"],
     "is_rubygem": false
   },
+  {
+    "name": "hurriyet-ruby",
+    "url": "https://github.com/yigitozkavci/hurriyet-ruby",
+    "githubUrl": "yigitozkavci/hurriyet-ruby",
+    "description": "Ruby Wrapper for Hurriyet API",
+    "contributors": ["yigitozkavci", "enderahmetyurt"],
+    "is_rubygem": true
+  },
 ]
