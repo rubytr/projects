@@ -1,2 +1,2 @@
 # projects
-Türk geliştiricelerin açık kaynak Ruby projeleri
+Türk geliştiricilerin açık kaynak Ruby projeleri
