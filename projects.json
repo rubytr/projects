@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Html2Docx",
+    "url": "https://github.com/MuhammetDilmac/Html2Docx",
+    "githubUrl": "MuhammetDilmac/Html2Docx",
+    "description": "Ruby library for creating Docx from HTML output",
+    "contributors": ["MuhammetDilmac"],
+    "is_rubygem": true
+  },
+  {
+    "name": "tc_kimlik_no_dogrulama",
+    "url": "https://github.com/tgezginis/tc_kimlik_no_dogrulama",
+    "githubUrl": "tgezginis/tc_kimlik_no_dogrulama",
+    "description": "Ruby için T.C. Kimlik Numarası doğrulama sistemi",
+    "contributors": ["tgezginis", "kaanklky"],
+    "is_rubygem": true
+  },
+  {
+    "name": "tors",
+    "url": "http://muratbt.com/tors/",
+    "githubUrl": "muratbsts/tors",
+    "description": "Yet another torrent searching application for your command line",
+    "contributors": ["muratbsts", "eren", "MuhammetDilmac"],
+    "is_rubygem": true
+  },
+  {
+    "name": "logpusher-ruby",
+    "url": "https://github.com/LogPusher/logpusher-ruby",
+    "githubUrl": "LogPusher/logpusher-ruby",
+    "description": "LogPusher: Log tracking for Ruby",
+    "contributors": ["izniburak"],
+    "is_rubygem": true
+  },
+  {
+    "name": "RoRdit",
+    "url": "https://rordit.herokuapp.com",
+    "githubUrl": "mertbulan/RoRdit",
+    "description": "Link aggregation web app similar with Reddit in Ruby on Rails",
+    "contributors": ["mertbulan", "davidesantangelo", "enderahmetyurt"],
+    "is_rubygem": false
+  },
+]
