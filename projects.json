@@ -39,4 +39,28 @@
     "contributors": ["mertbulan", "davidesantangelo", "enderahmetyurt"],
     "is_rubygem": false
   },
+  {
+    "name": "turkish_bin_numbers",
+    "url": "https://github.com/tgezginis/turkish_bin_numbers",
+    "githubUrl": "tgezginis/turkish_bin_numbers",
+    "description": "Bin Numbers for Turkish Banks",
+    "contributors": ["tgezginis"],
+    "is_rubygem": true
+  },
+  {
+    "name": "video_player",
+    "url": "https://github.com/tgezginis/video_player",
+    "githubUrl": "tgezginis/video_player",
+    "description": "Video player for Youtube, Vimeo, İzlesene and Wistia",
+    "contributors": ["tgezginis", "mikel", "foxgaocn"],
+    "is_rubygem": true
+  },
+  {
+    "name": "video_thumb",
+    "url": "https://github.com/tgezginis/video_thumb",
+    "githubUrl": "tgezginis/video_thumb",
+    "description": "Get the thumbnails from Youtube, Vimeo and İzlesene videos",
+    "contributors": ["tgezginis", "akosipc", "deegz"],
+    "is_rubygem": true
+  },
 ]
