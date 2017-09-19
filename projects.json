@@ -71,4 +71,28 @@
     "contributors": ["yigitozkavci", "enderahmetyurt"],
     "is_rubygem": true
   },
+  {
+    "name": "turkish_banks",
+    "url": "https://github.com/enderahmetyurt/turkish_banks",
+    "githubUrl": "enderahmetyurt/turkish_banks",
+    "description": "All Turkish Banks and Their Branches",
+    "contributors": ["enderahmetyurt", "Hamdiakoguz", "sbagdat"],
+    "is_rubygem": true
+  },
+  {
+    "name": "bilisim_sozlugu",
+    "url": "https://github.com/enderahmetyurt/bilisim_sozlugu",
+    "githubUrl": "enderahmetyurt/bilisim_sozlugu",
+    "description": "Translating computer words from English to Turkish",
+    "contributors": ["enderahmetyurt", "0x73", "sdogruyol"],
+    "is_rubygem": true
+  },
+  {
+    "name": "hurriyet-cli",
+    "url": "https://github.com/enderahmetyurt/hurriyet-cli",
+    "githubUrl": "enderahmetyurt/hurriyet-cli",
+    "description": "A Ruby CLI for Hurriyet",
+    "contributors": ["enderahmetyurt", "tgezginis"],
+    "is_rubygem": true
+  },
 ]
