@@ -95,4 +95,12 @@
     "contributors": ["enderahmetyurt", "tgezginis"],
     "is_rubygem": true
   },
+  {
+    "name": "turkish_support",
+    "url": "https://github.com/sbagdat/turkish_support",
+    "githubUrl": "sbagdat/turkish_support"",
+    "description": "Turkish character support for core ruby methods.",
+    "contributors": ["sbagdat", "furkanayhan"],
+    "is_rubygem": true
+  },  
 ]
